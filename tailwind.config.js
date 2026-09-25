@@ -1,5 +1,5 @@
 ﻿module.exports = {
-  content: ['./index.html', './src/**/*.{html,js}'],
+  content: ['./index.html', './privacidad/**/*.html', './terminos/**/*.html', './src/**/*.{html,js}'],
   plugins: [require('@tailwindcss/forms'), require('@tailwindcss/container-queries')],
       darkMode: "class",
       theme: {
